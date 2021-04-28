@@ -1,0 +1,1 @@
+GoogleDriveFSSetup.exe --silent --desktop_shortcut
